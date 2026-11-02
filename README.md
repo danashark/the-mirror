@@ -1,3 +1,2 @@
-# the-mirror
-
+# The Mirror
 Project
